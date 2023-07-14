@@ -1,0 +1,2 @@
+clasesinternas.Mascota
+clasesinternas.zoologico
